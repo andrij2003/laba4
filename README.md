@@ -5,11 +5,11 @@
 ### Виконання роботи
 - Результати виконання завдання:
 
-![alt text](https://github.com/stasik1435/oop/raw/master/lab_4/src/1.jpg)
-![alt text](https://github.com/stasik1435/oop/raw/master/lab_4/src/2.jpg)
-![alt text](https://github.com/stasik1435/oop/raw/master/lab_4/src/3.jpg)
-![alt text](https://github.com/stasik1435/oop/raw/master/lab_4/src/4.jpg)
-![alt text](https://github.com/stasik1435/oop/raw/master/lab_4/src/5.jpg)
+![alt text](https://github.com/andrij2003/laba4/raw/main/img/Screenshot_15.png)
+![alt text](https://github.com/andrij2003/laba4/raw/main/img/Screenshot_16.png)
+![alt text](https://github.com/andrij2003/laba4/raw/main/img/Screenshot_17.png)
+![alt text](https://github.com/andrij2003/laba4/raw/main/img/Screenshot_18.png)
+![alt text](https://github.com/andrij2003/laba4/blob/main/img/Screenshot_19.png)
 
 
 
